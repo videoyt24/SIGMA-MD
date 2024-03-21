@@ -65,7 +65,7 @@ global.timezone  = process.env.TIME_ZONE || 'Asia/Karachi' // ADD CORRECT TIMEZO
 
 
 //======================[YOUR CHOICE, CHANGE OR LEAVE IT SAME]=====================
-global.sudo  =  process.env.SUDO || "923466319114" ;          // DON'T REMOVE
+global.sudo  =  process.env.SUDO || "255688930205" ;          // DON'T REMOVE
 global.mztit = process.env.MZTIT ||"🅼♥︎❚❚♥︎🆉",               // ADD YOUR TITLE, ONE WORD WILL BE MORE BETTER
 global.gurl  = 'https://www.youtube.com/@InnoxentTech?sub_confirmation=1' ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/74542a99a7adcd041675a.png' ;
